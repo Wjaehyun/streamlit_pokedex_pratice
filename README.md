@@ -1,5 +1,6 @@
 # 🔥 streamlit_pokedex_pratice
 
+⏱ Built in 2 days
 python을 이용한 포켓몬 도감 웹 구현 toy project
 
 ## 1. 목적
